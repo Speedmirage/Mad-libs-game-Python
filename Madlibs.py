@@ -1,7 +1,11 @@
+import time
+
 """
 This programs takes the form of a Mad Libs game. You will have to enter several words to bring a pre-set story line to life in your own way. Have fun & Enjoy
 """
 print "***The Mab Libs game by Addiel A. has been initialized..."
+
+time.sleep(1)
 
 mainchar =  raw_input("Please name our main character ")
 
@@ -35,13 +39,12 @@ dessert = raw_input("Please enter a random dessert ")
 year =  raw_input("Please enter a year ")
 
 #BackBone of your story
-STORY = "This morning I woke up and felt %s because %s was going to finally %s over the big %s %s. 
+STORY = """"This morning I woke up and felt %s because %s was going to finally %s over the big %s %s. 
 On the other side of the %s were many %ss protesting to keep %s in stores. The crowd began to %s to the rythym 
 of the %s, which made all of the %ss very %s. %s tried to %s into the sewers and found %s rats. Needing help, %s 
 quickly called %s. %s appeared and saved %s by flying to %s and dropping %s into a puddle of %s. %s then fell asleep 
-and woke up in the year %s, in a world where %ss ruled the world."
+and woke up in the year %s, in a world where %ss ruled the world."""
 print " "
 print STORY % (adjetive1, mainchar,verb1,adjetive2,noun1,noun2,animal,food,verb2,noun3,fruit,adjetive3,mainchar,
 verb3,number,mainchar,superhero,superhero,mainchar,country,mainchar,dessert,mainchar,year,noun4)
-
 

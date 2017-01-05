@@ -6,4 +6,4 @@ Source: _Wikipedia_
 
 ## How do I play?
 
-1. First of all run the [Mad Libs Game] (https://repl.it/FBFJ/0)
+1. First of all run the Mad Libs Game <https://repl.it/FBFJ/0>

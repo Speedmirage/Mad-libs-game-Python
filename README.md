@@ -10,5 +10,5 @@ Source: _Wikipedia_
 2. Then, just follow the instruction given by the program and you'll be enjoying my mad libs game in no time.
 3. Have Fun! :)
 
-# [Return to Main Screen](https://speedmirage.github.io)
+# [Return Home](https://speedmirage.github.io)
 
